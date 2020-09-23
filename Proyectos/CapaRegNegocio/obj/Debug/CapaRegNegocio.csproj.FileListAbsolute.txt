@@ -1,0 +1,11 @@
+C:\Users\usser\source\repos\CapaRegNegocio\bin\Debug\CapaRegNegocio.dll
+C:\Users\usser\source\repos\CapaRegNegocio\bin\Debug\CapaRegNegocio.pdb
+C:\Users\usser\source\repos\CapaRegNegocio\bin\Debug\CapaDatos.dll
+C:\Users\usser\source\repos\CapaRegNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\usser\source\repos\CapaRegNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\usser\source\repos\CapaRegNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\usser\source\repos\CapaRegNegocio\obj\Debug\CapaRegNegocio.csprojAssemblyReference.cache
+C:\Users\usser\source\repos\CapaRegNegocio\obj\Debug\CapaRegNegocio.csproj.CoreCompileInputs.cache
+C:\Users\usser\source\repos\CapaRegNegocio\obj\Debug\CapaRegNegocio.csproj.CopyComplete
+C:\Users\usser\source\repos\CapaRegNegocio\obj\Debug\CapaRegNegocio.dll
+C:\Users\usser\source\repos\CapaRegNegocio\obj\Debug\CapaRegNegocio.pdb
